@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 👨‍🎓 I’m currently studying to be a software engineer
-- 💭 I’m currently learning JavaScript
+- 👨‍🎓 I'm now a Northcoders Alumni
+- 💭 Front-end obsessed!
+- 🌐 React Native fan boy
 - 😺 Ask me about my cats!
 - 😄 Pronouns: He/Him
 
